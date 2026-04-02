@@ -1,4 +1,5 @@
-# White-Box Challenges
+"phone_number": "5455261506
+x1/x2', (SELECT SLEEP(10))) -- -"# White-Box Challenges
 We ([AmirMohammad Safari](https://x.com/amirmsafari) and [Yashar Shahinzadeh](https://x.com/yshahinzadeh)) occasionally design whitebox challenges. We’ve decided to share the code and solutions here, hope you find them useful.
 
 - [NodeJS] [Toxic Admin Check](/toxic-admin-check)
